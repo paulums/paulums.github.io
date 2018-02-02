@@ -4,8 +4,11 @@ pages:
 - people.md
 - toolbox.md
 - research.md
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: page_title
   label: Page Title
+- type: textarea
+  label: Info
+  name: info
