@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: page_title
+  label: Page Title
+- type: textarea
+  default: About You
+- type: textarea
+  name: publications
+  label: Publications
