@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: post_title
+  label: Post Title
+- type: textarea
+  name: post_content
+  label: Post content
