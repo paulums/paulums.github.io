@@ -1,14 +1,12 @@
 ---
 pages:
+- toolbox.md
 - index.md
 - people.md
-- toolbox.md
+- home.md
 - research.md
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: page_title
   label: Page Title
-- type: textarea
-  label: Info
-  name: info
